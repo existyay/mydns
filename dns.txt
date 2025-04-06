@@ -32,6 +32,13 @@
 @@||weixin.qq.com
 @@||google.com^
 @@||youtube.com^
+||youtube.com^
+||withyoutube.com^
+||youtube-nocookie.com^
+||youtube.be^
+||youtube.co.uk^
+||youtube.com^
+||youtube-3rd-party.com^
 
 @@||api.onesignal.com^
 @@||mboxedge35.tt.omtrdc.net^
