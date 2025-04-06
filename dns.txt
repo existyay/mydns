@@ -39,6 +39,9 @@
 @@||youtube.com^
 @@||youtube-3rd-party.com^
 @@||vmware.com^
+@@||googleapps.com^
+@@||googlecdn.org^
+@@||googleapis.com^
 
 @@||api.onesignal.com^
 @@||mboxedge35.tt.omtrdc.net^
