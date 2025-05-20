@@ -1,6 +1,6 @@
 # mydns
 
-仅个人自用、基于秋风规则和nogoogle有黑白名单、在此基础上加入谷歌的cookie反追踪
+仅个人自用、基于秋风规则和nogoogle有黑白名单、在此基础上加入谷歌黑名单
 
 适用于adguardhome和理论上的所有ad系列
 
