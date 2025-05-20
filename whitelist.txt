@@ -2,7 +2,7 @@
 ! Title: Mydns
 ! Description: The White Dns List
 ! Version: 0.0.0.1
-! Last modified: 2025-04-06
+! Last modified: 2025-05-20
 !
 !
 
